@@ -1,4 +1,3 @@
-/* Nav active link on scroll */
 const navLinks = document.querySelectorAll('.nav-links a');
 const sections = document.querySelectorAll('section[id]');
 
